@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684139284354",
+    "project_id": "test-e4489",
+    "storage_bucket": "test-e4489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684139284354:android:ebfa72e8eceac1f07cf19b",
+        "android_client_info": {
+          "package_name": "com.example.prepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_eMrBsJMIoDpOt7jQmNVYbGa35BPw_KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
